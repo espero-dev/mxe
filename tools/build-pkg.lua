@@ -1046,7 +1046,7 @@ local function makeMxeRequirementsPackage(release)
         'gperf', 'intltool', 'libffi-dev', 'libtool',
         'libltdl-dev', 'libssl-dev', 'libxml-parser-perl',
         'make', 'openssl', 'patch', 'perl', 'p7zip-full',
-        'pkg-config', 'python', 'ruby', 'sed',
+        'pkg-config', 'python3', 'ruby', 'sed',
         'unzip', 'wget', 'xz-utils',
         'g++-multilib', 'libc6-dev-i386',
     }
